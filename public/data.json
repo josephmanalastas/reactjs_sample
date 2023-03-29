@@ -1,0 +1,56 @@
+[
+  {
+	"productID": 1,
+    "productName": "Hugh",
+    "image": "image1.jpg",
+    "description": "Leather 2.5 Seater with Inbuilt Electric Recliners",
+	"long_description" : "Getting a great nights sleep has never been quicker or easier than with this comfortable take-home mattress. It comes rolled and compressed so you can pack it in your car and take it home the same day. Just open it up and the Sleeptight mattress is ready to sleep on within 48 hours of opening.",
+    "price": "2499",
+    "details": "Size:L 1860mm x D 970mm x H 1010mm"
+  },
+  {
+	"productID": 2,
+    "productName": "Deluca",
+    "image": "image2.jpg",
+    "description": "Fabric 3.5 Seater RHF Chaise with Inbuilt Electric Recliner",
+	"long_description" : "Getting a great nights sleep has never been quicker or easier than with this comfortable take-home mattress. It comes rolled and compressed so you can pack it in your car and take it home the same day. Just open it up and the Sleeptight mattress is ready to sleep on within 48 hours of opening.",
+    "price": "1799",
+    "details": "Size:L 2480mm x D 1660mm x H 1010mm"
+  },
+  {
+	"productID": 3,
+    "productName": "Cannon",
+    "image": "image3.jpg",
+    "description": "Leather 3 Seater with Inbuilt Electric Recliners",
+	"long_description" : "Getting a great nights sleep has never been quicker or easier than with this comfortable take-home mattress. It comes rolled and compressed so you can pack it in your car and take it home the same day. Just open it up and the Sleeptight mattress is ready to sleep on within 48 hours of opening.",
+    "price": "2299",
+    "details": "Size:L 2260mm x D 890mm x H 670mm"
+  },
+  {
+	"productID": 4,
+	"productName": "Maitland",
+    "image": "image4.jpg",
+    "description": "4 Piece Queen Bedroom Suite",
+	"long_description" : "Getting a great nights sleep has never been quicker or easier than with this comfortable take-home mattress. It comes rolled and compressed so you can pack it in your car and take it home the same day. Just open it up and the Sleeptight mattress is ready to sleep on within 48 hours of opening.",
+    "price": "1799",
+    "details": ""
+  },
+  {
+	"productID": 5,
+    "productName": "Aragon",
+    "image": "image5.jpg",
+    "description": "3 Piece King Bedroom Suite",
+	"long_description" : "Getting a great nights sleep has never been quicker or easier than with this comfortable take-home mattress. It comes rolled and compressed so you can pack it in your car and take it home the same day. Just open it up and the Sleeptight mattress is ready to sleep on within 48 hours of opening.",
+    "price": "1299",
+    "details": ""
+  },
+  {
+	"productID": 6,
+    "productName": "Dozer",
+    "image": "image6.jpg",
+    "description": "Single Bed",
+	"long_description" : "Getting a great nights sleep has never been quicker or easier than with this comfortable take-home mattress. It comes rolled and compressed so you can pack it in your car and take it home the same day. Just open it up and the Sleeptight mattress is ready to sleep on within 48 hours of opening.",
+    "price": "399",
+    "details": "Size:L 2250mm x D 1025mm x H 1152mm"
+  }
+]

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <script src="js/jquery-3.4.1.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
+        <link rel="stylesheet" href="css/style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta
+        name="description"
+        content="Web site created using create-react-app"
+        />
+        <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+        <title>React App</title>
+    </head>
+    <body>
+
+        <div id="root"></div>
+
+        <footer id="sticky-footer" class="py-4 bg-dark text-white-50">
+            <div class="container text-center">
+                <small>Copyright &copy; Furnitures</small>
+            </div>
+        </footer>
+        <script>
+        $( document ).ready(function() {
+            $('.navbar-nav>li>a').on('click', function(){
+                $('.navbar-collapse').collapse('hide');
+            });
+        });
+        </script>
+
+    </body>
+</html>
